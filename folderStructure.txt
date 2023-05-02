@@ -1,0 +1,16 @@
+Backend:
+
+- config/
+    - config.js
+    - db.js
+- controllers/
+    - jobController.js
+    - userController.js
+- models/
+    - jobModel.js
+    - userModel.js
+- routes/
+    - jobRoutes.js
+    - userRoutes.js
+- app.js
+- server.js
