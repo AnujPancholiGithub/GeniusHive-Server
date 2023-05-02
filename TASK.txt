@@ -1,0 +1,11 @@
+## User authentication:
+
+- [ ]  Create a login page that allows users to enter their email and password.
+
+- [ ]  Implement a register page that allows users to create a new account with their email, password, and other details.
+
+- [ ]  Create an Express API endpoint that handles authentication requests and returns a JSON web token (JWT) upon successful login or registration.
+
+- [ ]  Store the JWT in local storage or a cookie on the client side to allow users to stay authenticated between page reloads.
+
+- [ ]  Add a logout button that clears the stored JWT and logs the user out of their account.
